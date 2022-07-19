@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtaubs1
-- 👀 I’m interested in Python, Bash, Pen Testing, Web Apps, Postgres
-- 🌱 I’m currently learning Pen Testing / Postgres
+- 👀 I’m interested in Red Teaming, Reversing Malware, Smartphone Forensics, Incident Handling 
+- 🌱 I’m currently learning Smartphone Forensics
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me taubl.jack@gmail.com
 - **Blog**: https://ice-wzl.medium.com
