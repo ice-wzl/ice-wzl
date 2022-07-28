@@ -5,6 +5,7 @@
 - 📫 How to reach me taubl.jack@gmail.com
 - **Blog**: https://ice-wzl.medium.com
 - **Gitbook**: https://taubl-jack.gitbook.io/oscp-prep/
+- https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg
 <!---
 jtaubs1/jtaubs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
