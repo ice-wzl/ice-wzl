@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently working on an Android dumpsys parser<br>👀 I'm interested in Red Teaming, Reversing Malware, Smartphone Forensics, and Incident Response<br>✨ I am currently learning C++<br>💞 I'm looking to collaborate on Android Forensic Tools<br>📫 How to reach me taubl.jack@gmail.com<br><strong>Blog:</strong> https://ice-wzl.medium.com<br><strong>Gitbook:</strong> https://taubl-jack.gitbook.io/oscp-prep
+🌱 I'm currently working on an Android dumpsys parser<br>👀 I'm interested in Red Teaming, Reversing Malware, Smartphone Forensics, and Incident Response<br>✨ I am currently learning C++<br>💞 I'm looking to collaborate on Android Forensic Tools<br>📫 How to reach me taubl.jack@gmail.com<br><strong>Gitbook:</strong> https://taubl-jack.gitbook.io/oscp-prep
 
 
 ## 🌐 Socials:
