@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an Android dumpsys parser<br>I'm interested in Red Teaming, Reversing Malware, Smartphone Forensics, and Incident Response<br>I am currently learning C++<br>I'm looking to collaborate on Android Forensic Tools<br>How to reach me taubl.jack@gmail.com<br>Gitbook: https://taubl-jack.gitbook.io/oscp-prep
+🌱 I'm currently working on an Android dumpsys parser<br>👀I'm interested in Red Teaming, Reversing Malware, Smartphone Forensics, and Incident Response<br>✨ I am currently learning C++<br>I'm looking to collaborate on Android Forensic Tools<br>📫 How to reach me taubl.jack@gmail.com<br>Blog: https://ice-wzl.medium.com<br>Gitbook: https://taubl-jack.gitbook.io/oscp-prep
 
 
 ## 🌐 Socials:
@@ -14,9 +14,3 @@ I'm currently working on an Android dumpsys parser<br>I'm interested in Red Team
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jtaubs1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!---
-jtaubs1/jtaubs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
