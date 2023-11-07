@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on https://github.com/JusticeRage/FFM<br>I'm interested in Red Teaming, and Malware Development, Mobile Forensics, IR<br>I am currently learning Windows Malware Development<br> I'm looking to collaborate on https://github.com/JusticeRage/FFM
+<strong>I'm currently working on:</strong> https://github.com/JusticeRage/FFM<br><strong>I'm interested in:</strong> Red Teaming, and Malware Development, Mobile Forensics, IR<br><strong>I am currently learning:</strong> Windows Malware Development<br><strong>I'm looking to collaborate on:</strong> https://github.com/JusticeRage/FFM
 
 
 ## 🌐 Socials:
